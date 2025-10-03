@@ -1,11 +1,29 @@
-# SQL_Projects
-## 🗄️ Database Overview – Northwind Schema
+# Northwind SQL Project
 
-I practiced on the **Northwind sample database**, which simulates a trading company.  
-It has data about **customers, products, orders, employees, suppliers, and shippers**.
+## Project Summary
+This project uses the classic Northwind sample database to practice SQL queries and analyze business data including orders, products, customers, and revenue trends. It covers a wide range of SQL concepts and analytical tasks.
+
+## Key Features & Components
+- Use of Northwind sample schema: orders, customers, products, suppliers, etc.
+- 50+ SQL practice queries covering:
+  - Filtering, joins, group by, aggregations
+  - Views and subqueries
+  - Customer behavior and order patterns
+  - Top products and revenue analysis
+- Query scripts with explanations provided
+
+## Technologies / Tools Used
+- SQL (MySQL, PostgreSQL, or equivalent)
+- Northwind sample database
+- Query files and documentation
+
+## Why It’s Valuable
+- Demonstrates foundational SQL skills
+- Covers a wide variety of query types
+- Converts database data into actionable insights
+- Strong portfolio example for recruiters and hiring managers
 
 Here are the main tables and columns I worked with:
-
 ---
 
 ### 🏷️ Category
